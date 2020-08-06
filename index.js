@@ -13,7 +13,7 @@ function logShout(string) {
 function logWhisper(string) {
   console.log('hello')
 }
-function sayHiToGrandma(){ 
+function sayHiToGrandma(){
   if sayHiToGrandma() === "I love you, Grandma";
   return ("I love you, too")
 }
